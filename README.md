@@ -5,7 +5,7 @@ thinkphp5 验证码类库
 > composer require topthink/think-captcha
 
 
-##使用
+## 使用
 
 ###模板里输出验证码
 
